@@ -103,7 +103,7 @@ int main(int argc, char** argv){
 	// posisi jendela dilayar komputer dalam piksel
 	glutInitWindowPosition(100, 100);
 	// judul jendela (isi dengan NAMA / NIM - JUDUL PRAKTIKUM)
-	glutCreateWindow("NAMA / NIM - PRAKTIKUM STIMA");
+	glutCreateWindow("RIYAN ADI SAPUTRO / 2000018286 - PRAKTIKUM STIMA");
 	// panggil fungsi init untuk inisialisasi awal
 	initView();
 	// event handler untuk display
